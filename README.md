@@ -1,10 +1,13 @@
-# HR Dashboard 
+# comprehensive HR analytics dashboard
 
 
-# project objective
+ project objective
+ 
 HR dashboard, which provides valuable insights into various employee metrics,
-# project overview 
-## The dashboard provides a comprehensive overview of key HR metrics. Here's a summary of the insights: 
+
+ project overview 
+ 
+ The dashboard provides a comprehensive overview of key HR metrics. Here's a summary of the insights: 
 
  💡 Overall Metrics:
  🔸Number of Employees: 100K
